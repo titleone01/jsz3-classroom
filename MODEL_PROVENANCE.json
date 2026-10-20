@@ -1,0 +1,39 @@
+{
+  "id": "jsz3",
+  "model": "JSZ3 / JSZ3C 教学示例",
+  "modelSourceCategory": "原厂模型（人工整理材质和观察分组）",
+  "selfBuilt3DMechanismInCurrentRuntime": false,
+  "twoDimensionalPrinciple": "本项目程序绘制的二维教学示意，不是原厂工程图",
+  "factoryInputs": [
+    {
+      "file": "E:\\vibecoding\\数字教材相关\\模型\\JSZ3时间继电器三维模型202012.stp",
+      "name": "JSZ3时间继电器三维模型202012.stp",
+      "sha256": "6e78c077b9b2c75bec524cc159ace4e6fdb6a9d4811d4f1d5a7ab677999faca7",
+      "role": "原厂原始CAD",
+      "url": "https://www.chint.net/products/543.html"
+    }
+  ],
+  "factoryTriangles": 123434,
+  "sourceFullSha256": "69d06fdb22ebb50024e132ac293feb02606b339d19284fdaa7e03b3812cdb51e",
+  "humanChanges": "原曲面观察编组、材质与灯光整理；不将其称作原厂材料实测或厂家维修拆装树。",
+  "unavailableOrUnverifiedInternalData": "未取得可核实的完整PCB、电子元件与输出继电器内部CAD；另找的原厂CZS08S组合不是内部电子装配，未替换本型号。",
+  "files": [
+    {
+      "file": "assets/model-11a0c42fc2e5.glb",
+      "category": "原厂几何压缩运行模型"
+    },
+    {
+      "file": "E:\\vibecoding\\数字教材相关\\outputs\\原厂模型真实性核查_20261020\\jsz3\\factory-only\\model-factory-full.glb",
+      "category": "原厂几何完整制作GLB"
+    },
+    {
+      "file": "E:\\vibecoding\\数字教材相关\\outputs\\原厂模型真实性核查_20261020\\jsz3\\factory-only\\jsz3-factory-only.blend",
+      "category": "原厂几何可编辑Blender"
+    },
+    {
+      "file": "app.js",
+      "category": "本项目交互与二维示意程序"
+    }
+  ],
+  "legacyMixedSource": "E:\\vibecoding\\数字教材相关\\outputs\\元器件全集制作\\jsz3\\sources\\model-full.glb"
+}
